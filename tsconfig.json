@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "esModuleInterop": true,
+        "experimentalDecorators": true,
+        "outDir": "./src",
+        "allowJs": true,
+        "baseUrl": "./src",
+        "jsx": "react",
+    }
+}
